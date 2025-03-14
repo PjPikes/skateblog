@@ -1,0 +1,49 @@
+body {
+  background-color: beige;
+}
+
+#title {
+  color: rgb(24, 24, 24);
+  font-size: 50px;
+  font-weight: bolder;
+  text-decoration: overline;
+  margin-top: 12px;
+}
+
+#heroimg,
+#spotimg {
+  width: 500px;
+  height: 300px;
+}
+
+#intro,
+#navbar,
+#footer,
+#article,
+#section {
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 6000;
+  font-style: bold;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+ol {
+  display: inline;
+  text-align: center;
+  padding: 40px;
+  font-size: large;
+}
+
+a {
+  color: brown;
+  text-decoration-line: none;
+}
+
+#navbar,
+li {
+  margin-top: 12px;
+}
